@@ -20,9 +20,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".site"
-            android:label="@string/title_activity_site" >
-        </activity>
+        android:name=".site"
+        android:label="@string/title_activity_site" >
+    </activity>
     </application>
 
 </manifest>
